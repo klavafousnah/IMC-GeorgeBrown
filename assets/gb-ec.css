@@ -530,6 +530,8 @@ div:hover .zoomPicOverlay {
     font-weight: 600;
     font-family: "Oswald", sans-serif;
     font-size: 1.625em;
+    background-color: #FFFFFF;
+
 }
 
 .h2LO{
@@ -540,7 +542,6 @@ div:hover .zoomPicOverlay {
     font-weight: 600;
     font-size: 2em;
     padding: 0.5em;
-    background-color: #00000090;
 }
 
 .media-padding{
